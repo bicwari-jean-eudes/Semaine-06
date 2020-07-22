@@ -1,0 +1,224 @@
+body {
+  margin:70px;
+  background-color: moccasin;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: royalblue;
+  color: white;
+}
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+.variable {
+  display: flex;
+  width: 10%;
+  background-color: tomato;
+  align-items: center;
+}
+.variable:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.variable {
+  transition: background-color 20s, transform 10s;
+}
+.type {
+  display: flex;
+  width: 65%;
+  background-color: turquoise;
+  align-items: center;
+}
+.type:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.type {
+  transition: background-color 20s, transform 10s;
+}
+.nombre {
+  display: flex;
+  background-color: teal;
+  width: 25%;
+  align-items: center;
+}
+.nombre:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.nombre {
+  transition: background-color 20s, transform 10s;
+}
+.boolléen {
+  display: flex;
+  background-color: yellow;
+  width: 25%;
+  align-items: center;
+}
+.boolléen:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.boolléen {
+  transition: background-color 20s, transform 10s;
+}
+.tableau {
+  display: flex;
+  background-color: violet;
+  width: 50%;
+  align-items: center;
+}
+.tableau:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.tableau {
+  transition: background-color 20s, transform 10s;
+}
+.objets {
+  display: flex;
+  background-color: peru;
+  width: 25%;
+  align-items: center;
+}
+.objets:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.objets {
+  transition: background-color 20s, transform 10s;
+}
+.opérateur {
+  display: flex;
+  background-color: yellowgreen;
+  width: 30%;
+  align-items: center;
+}
+.opérateur:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.opérateur {
+  transition: background-color 20s, transform 10s;
+}
+.fonctions {
+  display: flex;
+  background-color: slateblue;
+  width: 35%;
+  align-items: center;
+}
+.fonctions:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.fonctions {
+  transition: background-color 20s, transform 10s;
+}
+.conditions {
+  display: flex;
+  background-color: springgreen;
+  width: 35%;
+  align-items: center;
+}
+.conditions:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.conditions {
+  transition: background-color 20s, transform 10s;
+}
+.prompt {
+  display: flex;
+  width: 50%;
+  background-color: cyan;
+  align-items: center;
+}
+.prompt:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.prompt {
+  transition: background-color 20s, transform 10s;
+}
+.alert {
+  display: flex;
+  width: 50%;
+  background-color: turquoise;
+  align-items: center;
+}
+.alert:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.alert {
+  transition: background-color 20s, transform 10s;
+}
+.confirm {
+  display: flex;
+  width: 40%;
+  background-color: yellowgreen;
+  align-items: center;
+}
+.confirm:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.confirm {
+  transition: background-color 20s, transform 10s;
+}
+.parseInt {
+  display: flex;
+  width: 60%;
+  background-color: sandybrown;
+  align-items: center;
+}
+.parseInt:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.parseInt {
+  transition: background-color 20s, transform 10s;
+}
+.boucle {
+  display: flex;
+  width: 45%;
+  background-color: yellow;
+  align-items: center;
+}
+.boucle:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.boucle {
+  transition: background-color 20s, transform 10s;
+}
+.forEach {
+  display: flex;
+  width: 20%;
+  background-color: violet;
+  align-items: center;
+}
+.forEach:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.forEach {
+  transition: background-color 20s, transform 10s;
+}
+.finalClass {
+  display: flex;
+  width: 35%;
+  background-color: wheat;
+  align-items: center;
+}
+.finalClass:hover {
+  background-color: tomato;
+  transform: scale(1.2);
+}
+.finalClass {
+  transition: background-color 20s, transform 10s;
+}
