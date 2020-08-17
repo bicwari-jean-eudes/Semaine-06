@@ -27,7 +27,7 @@ h1 {
   transform: scale(1.2);
 }
 .variable {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .type {
   display: flex;
@@ -44,7 +44,7 @@ h1 {
   transform: scale(1.2);
 }
 .type {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .nombre {
   display: flex;
@@ -59,7 +59,7 @@ h1 {
   transform: scale(1.2);
 }
 .nombre {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .boolléen {
   display: flex;
@@ -74,7 +74,7 @@ h1 {
   transform: scale(1.2);
 }
 .boolléen {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .tableau {
   display: flex;
@@ -91,7 +91,7 @@ h1 {
   transform: scale(1.2);
 }
 .tableau {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .objets {
   display: flex;
@@ -106,7 +106,7 @@ h1 {
   transform: scale(1.2);
 }
 .objets {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .opérateur {
   display: flex;
@@ -121,7 +121,7 @@ h1 {
   transform: scale(1.2);
 }
 .opérateur {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .fonctions {
   display: flex;
@@ -138,7 +138,7 @@ h1 {
   transform: scale(1.2);
 }
 .fonctions {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .conditions {
   display: flex;
@@ -153,7 +153,7 @@ h1 {
   transform: scale(1.2);
 }
 .conditions {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .prompt {
   display: flex;
@@ -169,7 +169,7 @@ h1 {
   transform: scale(1.2);
 }
 .prompt {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .alert {
   display: flex;
@@ -184,7 +184,7 @@ h1 {
   transform: scale(1.2);
 }
 .alert {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .confirm {
   display: flex;
@@ -200,7 +200,7 @@ h1 {
   transform: scale(1.2);
 }
 .confirm {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .parseInt {
   display: flex;
@@ -215,7 +215,7 @@ h1 {
   transform: scale(1.2);
 }
 .parseInt {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .boucle {
   display: flex;
@@ -230,7 +230,7 @@ h1 {
   transform: scale(1.2);
 }
 .boucle {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .forEach {
   display: flex;
@@ -247,7 +247,7 @@ h1 {
   transform: scale(1.2);
 }
 .forEach {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
 .finalClass {
   display: flex;
@@ -262,5 +262,5 @@ h1 {
   transform: scale(1.2);
 }
 .finalClass {
-  transition: background-color 20s, transform 10s;
+  transition: background-color 5s, transform 7s;
 }
